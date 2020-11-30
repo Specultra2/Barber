@@ -7,9 +7,9 @@
 
 
 /* Content */
-.content{
-  background:;
-}
+/* .content{
+  background:
+} */
 
 /* Image */
 .box {
@@ -43,6 +43,7 @@
 }
 .tajuk{
   text-align: center;
+  
 }
 /* Content 2 */
 .content-2 {
@@ -55,3 +56,12 @@
   /* padding-left: 20px;
   padding-right: 60px; */
 }
+.chat{
+  margin-left: 5px;
+}
+.button{
+  
+  position: sticky;
+  bottom: 0%;
+  width: 100%;
+  justify-content: center; } 
