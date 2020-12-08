@@ -1,0 +1,133 @@
+
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+.hamburger{
+  color: white; 
+  font-size: 35px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.chatbox{
+  color: white;
+  font-size: 30px;
+ margin-top: 15px;
+ text-align: left;
+}
+
+/* Content */
+#content{
+  --background: rgb(20, 19, 19);
+    
+}
+.content2{
+  --background: #e4e7e6;
+}
+
+.title{
+  --background: black;
+  --color: white;
+  text-align: center;
+  margin-bottom: 0px;
+  
+}
+.grid{
+  margin-top: 10px;
+  
+}
+.second{
+  margin-top: -5px;
+  margin-bottom: -5px;
+}
+.bar {
+  --background: white;
+  --border-radius: 0;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+.date{
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-bottom: 7px;
+  
+}
+.time{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-bottom: 7px;
+}
+.icon{
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+  
+
+
+.service {
+padding: 10px;
+  padding-top: 0.2px;
+  --background: white;
+  --color: black;
+  --background-hover: black;
+  
+}
+
+.flexContainer{
+  display: flex;
+  
+}
+
+
+
+.name{
+  --color: black;
+}
+
+.result{
+  
+  margin-top: 5px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.avtr{
+  margin-left: -10px;
+  margin-right: 10px;
+  width: 60px !important;
+  height: 60px !important;
+}
+.wrap{
+  
+  display: flex;
+  width: 100px;
+  justify-content: center;
+}
+.viewBtn{
+ padding-left: 0px;
+ padding-right: 50px;
+  font-size: 10px;
+  margin: 0 auto;
+}
+
+
+.logoo{
+  border-radius: 60%;
+  margin-bottom: -20px;
+  width: 17%;
+}
+
+
+
+
+
+
