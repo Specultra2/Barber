@@ -1,0 +1,25 @@
+.picture{
+  width: 75%;
+  object-fit: cover;
+padding-left: 20px;
+
+
+}
+.pic{
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+ .button{
+  
+  position: sticky;
+  bottom: 0%;
+  width: 100%;
+  justify-content: center; } 
+ 
+
+
+
+.women {
+  height: 150px;
+}
