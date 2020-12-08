@@ -1,0 +1,71 @@
+#content{
+  background: rgba(255,255,255,0.5);
+  --background: url(https://i.pinimg.com/originals/e6/24/cd/e624cdc9cf04c1afdd62917860f13bfd.jpg) no-repeat 100% 100%;
+  }
+#content1{
+  --ion-background-color:#ffffff;
+}
+#content2{
+  
+  --background: url(https://i.pinimg.com/originals/e6/24/cd/e624cdc9cf04c1afdd62917860f13bfd.jpg) no-repeat 100% 100%;
+}
+#content4{
+  --ion-background-color:#ffffff;
+}
+
+
+.custom-font1{
+  font-family: 'Staatliches', cursive;
+  padding: 20px 0 46px 0;
+  font-weight: 900;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+
+}
+.title{
+    --ion-background-color:#e91e1e;
+    --ion-text-color:#1f1919f;
+    --ion-text-font:custom-font;
+    margin-top: auto;
+}
+.default{
+    
+    padding: 10px;
+    text-align: center;
+    background: rgba(255,255,255,0.5);
+    
+ }
+ .page-center-elements{
+   position: absolute;
+   left: 0;
+   right: 0;
+   top: 0;
+   bottom: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ .content{
+   font-family: sans-serif;
+   text-align: center;
+   color: rgb(0, 0, 0);
+    
+ }
+ .buttons-container{
+  margin-top: 30px;
+  font-family: sans-serif;     
+}
+IonButton{
+
+  border-radius: 0;
+}
+.Hai{
+
+  -ms-grid-rows: center;
+
+}
+.haha1{
+  margin-top: 3cm;
+    background: rgba(255,255,255,0.5);
+  }
