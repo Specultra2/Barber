@@ -1,0 +1,31 @@
+.B{
+  background-color: black;
+  color: white;
+  padding: 12px 26px;
+  position: relative;
+  border-radius: 10px;
+  width: 95%;
+  left: 3%;
+}
+.input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(165, 165, 165);
+    
+}
+.h{
+  margin-top: 10px;
+  padding-top: 10px;
+}
+.err{
+    color: red;
+}
+.i{
+    margin-bottom: 10px;
+}
+.content{
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(0, 0, 0);
+   
+}

@@ -1,0 +1,53 @@
+
+.cekout{
+    text-align: center;
+}
+.bic{
+    text-align: center;
+}
+.ordersum{
+    text-align: center;
+}
+.bayar{
+    text-align: center;
+}
+.n{
+    text-align: right;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.title{
+    text-align: right;
+}
+.h{
+    color: black;
+}
+.date{
+    color: black;
+}
+.email{
+    --placeholder-font-weight:bold ;
+    --placeholder-color:black;
+    color: black;
+}
+.err{
+    
+    color: red
+}
+.T{
+    background-color: black;
+    color: white;
+    padding: 16px 26px;
+    position: relative;
+    border-radius: 10px;
+    width: 100%;
+    left: 0%;
+}
+.input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(165, 165, 165);
+    padding: 12px 20px;
+}
