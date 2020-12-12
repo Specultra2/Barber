@@ -1,0 +1,27 @@
+.card{
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+}
+.cardinside{
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.buttoninside{
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    
+
+    
+
+}
+.icon{
+    justify-content: center;
+}
